@@ -7,7 +7,6 @@
 </p>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=Davi-Oliveira-Brito&theme=radical&mode=weekly" />
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Oliveira-Brito&show_icons=true&theme=radical&layout=compact" />
 </div>
 
