@@ -25,16 +25,16 @@
 ## 🧩 Projetos em Destaque
 
 ### 🐾 Animal Side (TCC Curso de Informática - 2022)
-Site sobre adoção e conscientização animal, feito com React.JS, Express.JS, MySQL.  
+Site sobre adoção e conscientização animal, feito com React.JS, Node.JS, MySQL.  
 🔗 [Ver Repositório](https://github.com/Davi-Oliveira-Brito/Animal-Side)
 
 ### 🌱 Green Valley
-Cardapio online feito com React.JS, Express.JS, MySQL.  
+Cardapio online feito com React.JS, Node.JS, MySQL.  
 🔗 [Ver Repositório](https://github.com/BiroGates/Green_Valley)
 
 ### 🍽️ Food Manager
 Sistema em desenvolvimento para controle de validade de alimentos.  
-🚧 Em breve adicionarei o link do repositório.
+🚧 [Ver Repositório - API](https://github.com/Davi-Oliveira-Brito/API_FoodManager.git)
 
 ---
 
@@ -57,7 +57,7 @@ Sistema em desenvolvimento para controle de validade de alimentos.
 ## 📚 O que estou estudando
 
 - Iniciando os estudos em ☕Java com foco em POO 
-- REST APIs com Express
+- REST APIs Node.js
 - UI Design com Figma
 - Analise e Desenvolvimento de Sistemas (Faculdade das Américas)
 
