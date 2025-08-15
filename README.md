@@ -28,7 +28,7 @@
 Site sobre adoção e conscientização animal, feito com React.JS, Node.JS, MySQL.  
 🔗 [Ver Repositório](https://github.com/Davi-Oliveira-Brito/Animal-Side)
 
-### 🌱 Green Valley
+### 🌱 Green Valley (P.I Curso de Informática - 2022)
 Cardapio online feito com React.JS, Node.JS, MySQL.  
 🔗 [Ver Repositório](https://github.com/BiroGates/Green_Valley)
 
