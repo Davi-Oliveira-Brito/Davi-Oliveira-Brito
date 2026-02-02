@@ -74,15 +74,6 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação e gosto de ent
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-Oliveira-Brito&show_icons=true&hide_border=true&title_color=1B98E0&icon_color=1B98E0&text_color=ffffff&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-Oliveira-Brito&layout=compact&hide_border=true&title_color=1B98E0&text_color=ffffff&bg_color=0d1117"/>
-</div>
-
----
-
 ## Vamos conversar?
 
 Estou aberto a **oportunidades de estágio** e a trocar ideias sobre tecnologia, backend e desenvolvimento de sistemas.
