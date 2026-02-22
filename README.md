@@ -54,12 +54,12 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação e gosto de ent
 
 ### Em estudo / aprofundamento
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,azure" />
+  <img src="https://skillicons.dev/icons?i=nest,ts,cs,dotnet,python,azure" />
 </p>
 
 ### Ferramentas
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,prisma" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação e gosto de ent
 
 ## Vamos conversar?
 
-Estou aberto a **oportunidades de estágio** e a trocar ideias sobre tecnologia, backend e desenvolvimento de sistemas.
+Estou aberto a **oportunidades de Junior, estágio** e a trocar ideias sobre tecnologia, backend, frontend e desenvolvimento de sistemas.
 
 <div align="center">
   <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/">
