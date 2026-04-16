@@ -36,6 +36,9 @@ Tenho facilidade em aprender novas tecnologias, boa comunicação e gosto de ent
 ---
 
 ## Stack Tecnológica
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-Oliveira-Brito&theme=github_dark" />
+</div>
 
 ### Backend & Lógica
 <p>
