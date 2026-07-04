@@ -1,93 +1,45 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1B98E0&height=170&section=header"/>
-
-<h1 align="center">Davi Oliveira Brito</h1>
-
-<h3 align="center">
-Desenvolvedor focado em lógica, backend e construção de sistemas escaláveis
-</h3>
-
-<br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:davioliveirabrito@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-davi-oliveira-brito.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="#">
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=CAD202&background=000000&center=true&vCenter=true&width=1100&height=220&lines=Hey%2C+I'm+Davi;Full+Stack+Developer" alt="Hey, I'm Davi" /
   </a>
 </div>
 
-<br>
+</br>
 
----
+**Full Stack Developer** · São Paulo, Brazil
 
-## Sobre mim
+I build complete web and mobile applications: **C# and .NET** on the backend,
+**Next.js and React** on the frontend. Database modeling, API design, interface,
+deploy. The whole path from idea to production.
 
-Tenho **19 anos**, sou estudante de **Análise e Desenvolvimento de Sistemas** e formado como **Técnico em Informática**.  
-Entrei na área por curiosidade e, com o tempo, desenvolvi uma forte afinidade com **lógica, backend e regras de negócio**.
+Right now I'm a freelance junior developer at [CRMap](https://crmap.com.br),
+building .NET APIs with PostgreSQL and shipping mobile features in React Native.
+Before writing code for a living, I was on the finance side of a company
+automating repetitive work with Python. That experience shaped how I build
+software: understand the real problem first, then write the code that solves it.
 
-Atualmente busco **oportunidade de estágio**, com interesse especial no **mercado financeiro**, onde posso evoluir tecnicamente e contribuir na construção de sistemas robustos, seguros e bem estruturados.
+### Now
 
-Tenho facilidade em aprender novas tecnologias, boa comunicação e gosto de entender **o “porquê” por trás das decisões técnicas**.
+- Shipping features at [CRMap](https://crmap.com.br) (C#/.NET + React Native)
+- Co-founder at [DevBrito](https://devbrito.com.br), a studio building landing pages and custom systems from scratch, straight from briefing to deploy
+- Going deeper into the .NET ecosystem · AWS Cloud Practitioner planned for 2026
 
----
 
-## Stack Tecnológica
+### What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,ts,js,react,nextjs,html,css,sass&perline=11" height="36" />
+
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,py,git,github,azure,postman,figma&perline=11" height="36" />
+</p>
+
+
+### Find me
+
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Davi-Oliveira-Brito&theme=github_dark" />
+  <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=CAD202"/></a>
+  <a href="https://devbrito.com.br" target="_blank"><img src="https://img.shields.io/badge/DevBrito-CAD202?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+  <a href="https://devbrito.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=CAD202"/></a>
+  <a href="mailto:davioliveirabrito@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-CAD202?style=for-the-badge&logo=maildotru&logoColor=000000"/></a>
 </div>
-
-### Backend & Lógica
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,jwt" />
-</p>
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,scss,figma" />
-</p>
-
-### Banco de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
-
-### Em estudo / aprofundamento
-<p>
-  <img src="https://skillicons.dev/icons?i=nest,ts,cs,dotnet,python,azure" />
-</p>
-
-### Ferramentas
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,prisma" />
-</p>
-
----
-
-## Diferenciais
-
-- **Pensamento lógico e analítico**
-- **Boa comunicação e organização**
-- **Curiosidade técnica constante**
-- **Persistência para resolver problemas**
-- Facilidade para aprender novas stacks e conceitos
-
----
-
-## Vamos conversar?
-
-Estou aberto a **oportunidades de Junior, estágio** e a trocar ideias sobre tecnologia, backend, frontend e desenvolvimento de sistemas.
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:davioliveirabrito@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-  </a>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:1B98E0&height=120&section=footer"/>
