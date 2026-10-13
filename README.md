@@ -21,7 +21,6 @@ software: understand the real problem first, then write the code that solves it.
 
 ### Now
 - Full stack at [SuccesPar](https://succespar.com.br): Django APIs with Python and MySQL on WSL, React and Next.js on the frontend
-- Shipping features at [CRMap](https://crmap.com.br) (C#/.NET + React Native)
 - Founder at [DevBrito](https://devbrito.com.br), a studio building landing pages and custom systems from scratch, straight from briefing to deploy
 - Going deeper into the .NET ecosystem · AWS Cloud Practitioner planned for 2026
 
