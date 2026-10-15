@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=CAD202&background=000000&center=true&vCenter=true&width=1100&height=220&lines=Hey%2C+I'm+Davi;Full+Stack+Developer" alt="Hey, I'm Davi" />
+    <img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2500&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=1100&height=220&lines=Hey%2C+I'm+Davi;Full+Stack+Developer" alt="Hey, I'm Davi" />
   </a>
 </div>
 </br>
@@ -32,8 +32,8 @@ software: understand the real problem first, then write the code that solves it.
 
 ### Find me
 <div>
-  <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=CAD202"/></a>
-  <a href="https://devbrito.com.br" target="_blank"><img src="https://img.shields.io/badge/DevBrito-CAD202?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
-  <a href="https://devbrito.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=CAD202"/></a>
-  <a href="mailto:davioliveirabrito@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-CAD202?style=for-the-badge&logo=maildotru&logoColor=000000"/></a>
+  <a href="https://www.linkedin.com/in/davi-oliveira-brito-b7267b252/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF"/></a>
+  <a href="https://devbrito.com.br" target="_blank"><img src="https://img.shields.io/badge/DevBrito-FFFFFF?style=for-the-badge&logo=vercel&logoColor=000000"/></a>
+  <a href="https://devbrito.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=FFFFFF"/></a>
+  <a href="mailto:davioliveirabrito@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=maildotru&logoColor=000000"/></a>
 </div>
